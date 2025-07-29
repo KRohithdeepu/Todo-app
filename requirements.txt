@@ -22,3 +22,5 @@ tzdata==2025.2
 urllib3==2.4.0
 virtualenv==20.31.2
 xlrd==2.0.1
+daphne
+
