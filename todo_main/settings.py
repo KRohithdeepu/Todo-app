@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-v0f3t^g-q05_co8gg2gb=kocu_$d)q=vi!8ynm(qnjok=ep!t*
 DEBUG = True
 
 import os
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', os.environ.get('HOSTNAME')]
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.vercel.app', os.environ.get('HOSTNAME')]
 
 
 # Application definition

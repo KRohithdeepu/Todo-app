@@ -2,3 +2,4 @@ django
 daphne
 asgiref
 whitenoise
+gunicorn
